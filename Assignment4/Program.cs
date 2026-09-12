@@ -152,6 +152,7 @@ namespace Assignment4
             //int pages = 400;
             //AddBonusPages(pages);
             //Console.WriteLine(pages); 
+            //I expect to see 400 because the method AddBonusPages takes a copy of the pages variable 
             #endregion
 
             #region question6
